@@ -1,0 +1,14 @@
+img{
+    width: 320px;
+    height: 250px;
+    border-radius: 60px;
+}
+img:hover{
+    opacity: 0.5;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+p{
+color: lightblue;
+}
